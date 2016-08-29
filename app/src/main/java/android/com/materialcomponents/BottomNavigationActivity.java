@@ -8,6 +8,7 @@ import android.support.v7.widget.Toolbar;
 import com.roughike.bottombar.BottomBar;
 import com.roughike.bottombar.OnMenuTabSelectedListener;
 
+// Paso a paso ---------------------------- http://androidgifts.com/build-android-material-design-bottom-navigation/
 public class BottomNavigationActivity extends AppCompatActivity {
 
     private CoordinatorLayout coordinatorLayout;

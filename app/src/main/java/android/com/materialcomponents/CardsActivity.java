@@ -9,6 +9,7 @@ import android.support.v7.widget.Toolbar;
 import java.util.ArrayList;
 import java.util.List;
 
+// Paso a paso ---------------------------- http://www.hermosaprogramacion.com/2015/02/android-recyclerview-cardview/
 public class CardsActivity extends AppCompatActivity {
 
     private RecyclerView recycler;
